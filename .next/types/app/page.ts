@@ -1,4 +1,4 @@
-// File: /Users/albertmends/Documents/legal-starter/src/app/page.tsx
+// File: C:\Users\Andy\OneDrive\Desktop\PROJECTS\legal-sementic-search-starter-code\src\app\page.tsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
