@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Legal semantic search 
 
 ### Self-bootstrapping legal case semantic search sample app
@@ -291,3 +292,7 @@ const vectorStore = new PineconeStore(voyageEmbeddings, {
 const retrieved = await vectorStore.maxMarginalRelevanceSearch(query, { k: 20 });
 ```
 
+=======
+# Semantic-app
+A semantic app that uses keyword for legal search.
+>>>>>>> fadf21db4a230c619aacaac0af627fcc14f51abf
